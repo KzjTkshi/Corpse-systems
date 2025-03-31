@@ -1,11 +1,3 @@
-#if define
-	
-	Corpse system / system mayat
-	Made By Kazuji
-	Creation Date : 31/03/2025
-
-#endif
-
 enum e_corpse
 {
 	corpID,
